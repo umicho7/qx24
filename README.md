@@ -1,2 +1,2 @@
 # qx24
-Network Pattern Reccognition
+Network Pattern Recognition
